@@ -1,1 +1,1 @@
-Typescript
+# alx-frontend-javascript
